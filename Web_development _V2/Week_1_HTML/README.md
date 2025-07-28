@@ -1,5 +1,7 @@
 # 🌐 Introduction to HTML5 – Week 1 Assignment
 
+<img width="500" height="409" alt="407304807-234c3113-7017-44ab-bf2c-c4fe57a02612" src="https://github.com/user-attachments/assets/a87d6718-9791-4831-81da-3a4929da993b" />
+
 **Student:** Nelson Muquissi  
 **Cohort:** PLP – Web Technologies (July 2025)  
 **Repository:** `july-2025-introduction-to-html-5-NelsonMuquissi`
