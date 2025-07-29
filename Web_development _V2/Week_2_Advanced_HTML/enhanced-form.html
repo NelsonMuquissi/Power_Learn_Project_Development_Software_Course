@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Enhanced HTML5 Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      background-color: #f7f7f7;
+    }
+    h1, h2 {
+      color: #304082;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+    fieldset {
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+    legend {
+      font-weight: bold;
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 8px;
+      margin-top: 4px;
+    }
+    .readonly {
+      background-color: #eee;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>HTML5: Enhanced Content and Form</h1>
+    <p>This page demonstrates advanced HTML5 content structure using lists, tables, media, and a complete form with native validation.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Popular Web Technologies</h2>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>React.js</li>
+        <li>Django</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Comparison of Frontend Frameworks</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Framework</th>
+            <th>Language</th>
+            <th>Usage</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Django</td>
+            <td>Python</td>
+            <td>Build Systems</td>
+          </tr>
+          <tr>
+            <td>Angular</td>
+            <td>TypeScript</td>
+            <td>Enterprise Apps</td>
+          </tr>
+          <tr>
+            <td>Vue</td>
+            <td>JavaScript</td>
+            <td>Progressive Web Apps</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Media Demo</h2>
+      <video width="320" height="240" controls>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <audio controls>
+        <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </section>
+
+    <section>
+      <h2>Registration Form</h2>
+      <form action="#" method="post" autocomplete="on">
+        <fieldset>
+          <legend>Personal Information</legend>
+
+          <label for="fullname">Full Name:</label>
+          <input type="text" id="fullname" name="fullname" placeholder="e.g., Nelson Muquissi" required>
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" placeholder="emelsonmuquissi@gmail.com" required>
+
+          <label for="dob">Date of Birth:</label>
+          <input type="date" id="dob" name="dob" required>
+
+          <label for="gender">Gender:</label>
+          <select id="gender" name="gender" required>
+            <option value="">--Select--</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+          </select>
+        </fieldset>
+
+        <fieldset>
+          <legend>Account Information</legend>
+
+          <label for="username">Username:</label>
+          <input type="text" id="username" name="username" minlength="4" maxlength="15" required>
+
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="password" minlength="6" required>
+
+          <label for="phone">Phone:</label>
+          <input type="tel" id="phone" name="phone" pattern="^(\+244)[9]\d{8}$" 
+                 placeholder="+244936327119" 
+                 title="Phone must be in Kenyan format: +244xxxxxxxxx" required>
+
+          <label for="ref">Referral Code:</label>
+          <input type="text" id="ref" name="ref" value="PLP2025" readonly class="readonly">
+        </fieldset>
+
+        <fieldset>
+          <legend>Feedback</legend>
+
+          <label for="comments">Comments:</label>
+          <textarea id="comments" name="comments" rows="4" placeholder="Your feedback here..."></textarea>
+        </fieldset>
+
+        <input type="submit" value="Submit Registration">
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 - Nelson Muquissi | Advanced HTML5 Assignment</p>
+  </footer>
+
+</body>
+</html>
