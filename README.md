@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/9738f454-eb4d-4331-ac29-0e0a320b5739" alt="PLP Banner" style="width:100%; height:400px; object-fit:cover;"/>
+
 # 💻 Power Learn Project – Software Development Course  
 **Cohort VIII – July 2025**
 
