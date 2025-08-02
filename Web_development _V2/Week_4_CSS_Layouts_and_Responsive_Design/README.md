@@ -1,6 +1,8 @@
 
 # 🌐 CSS Layouts & Responsive Web Design – Final Summary
-
+  
+<img width="1584" height="815" alt="Screenshot_1" src="https://github.com/user-attachments/assets/26a61e7e-7a56-48f7-ae9e-19a18ea37645" />
+  
 Welcome to your complete guide and assignment overview on CSS Layout Principles and Responsive Web Design (RWD). This project combines theory, practice, and resources to help you master modern layout techniques like Flexbox, CSS Grid, and media queries—key to building flexible, user-friendly, and mobile-first websites.
 
 ---
