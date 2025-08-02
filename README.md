@@ -46,7 +46,7 @@ This course covers:
 I'm open to connect with fellow students, mentors, and recruiters interested in supporting tech talent in Africa.
 
 - 👤 **Nelson Muquissi Zangui**
-- 🌐 [Portfolio](https://nelsonmuquissi.github.io/profile)
+- 🌐 [Portfolio](https://nelsonm.vercel.app/)
 - 🐙 [GitHub](https://github.com/NelsonMuquissi)
 - 📧 emelsonmuquissi@gmail.com
 
