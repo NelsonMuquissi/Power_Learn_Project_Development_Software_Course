@@ -64,6 +64,11 @@ This project was created for the **July 2025 Cohort Hackathon 1: Portfolio Chall
 - ✅ Documentation (Detailed README)
 - ✅ Deployment (Hosted on GitHub Pages)
 - ✅ Technology Stack (Modern web technologies)
+   
+   
+**Fully Responsive** - Works on all devices
+
+<img width="697" height="358" alt="Screenshot_1-removebg-preview" src="https://github.com/user-attachments/assets/cf2cdad9-636e-4794-8976-ec5f316a2b32" />
 
 ## 🛠️ Installation
 ```bash
@@ -76,4 +81,3 @@ Let's collaborate!
 📧 emelsonmuquissi@gmail.com
 📞 +244 936 327 119
 🌍 Luanda, Angola
-
