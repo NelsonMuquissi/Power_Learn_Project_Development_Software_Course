@@ -1,6 +1,9 @@
 
 # 📚 JavaScript Fundamentals — Cohort VIII
 
+<img width="800" height="300" alt="3cdaf4a1-bcd3-492b-b7d5-e7579cb2d786" src="https://github.com/user-attachments/assets/bbd4b622-3559-4a9e-988e-fbf914ce1fbe" />
+
+
 This repository contains all lessons, code, and notes from Week 5 of the Power Learn Project’s Software Development Program. It focuses on mastering the core concepts of JavaScript.
 
 ## 🔥 Modules Completed
